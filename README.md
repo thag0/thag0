@@ -9,8 +9,7 @@ Meus projetos de destaque são:
  - Jogo da Cobrinha: https://github.com/thag0/Jogo-da-Cobrinha. Criei essa minha versão do jogo quando estava me interessando na área de jogos e um pouquinho de design, claro que o jogo foi criado com base nas minhas regras, mas se assemelha bastante ao original, fiz para melhorar mais meus conhecimento em lógica, criação de interfaces gráficas, uso de efeitos sonoros, criação de sprites simples e também foi onde comecei a criar a boa prática de documentar bastante meu próprio código.
  - Sistema de Estoque: https://github.com/thag0/Sistema-de-estoque-de-produtos. Esse projeto desenvolvi mais com interesse na área de interfaces gráficas e mais para manipulção de dados externos dentro do programa, quis criar uma interface amigável e tentei fazer o programa ser o mais dinâmico possível.
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=dark)](https://github.com/seu_nome_de_usuário)
 
 # Contatos:
-linkedin: https://www.linkedin.com/in/thiago-barroso-3523bb28b/
-email: thiagobarroso11@hotmail.com
+- linkedin: https://www.linkedin.com/in/thiago-barroso-3523bb28b/
+- email: thiagobarroso11@hotmail.com
