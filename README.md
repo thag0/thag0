@@ -2,7 +2,12 @@ opa
 
 Sou um grande interessado na área de programação e desenvolvimento, atualmente mexo com meus próprios projetos que tenho em mente e tento desenvolver programas que sejam fáceis de ler e escalar.
 
-Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens que foram aprendi dentro da universidade e que tenho mais familiaridade e consigo desenvolver com mais velocidade e consistência. Atualmente trabalho nos meus projetos mais usando java pelo ambiente mais simples que me proporciona de apenas criar, compilar e executar sem tantos problemas.
+Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens que aprendi dentro da universidade e que tenho mais familiaridade e consigo desenvolver com mais velocidade e consistência. Atualmente trabalho nos meus projetos mais usando java pelo ambiente mais simples que me proporciona de apenas criar, compilar e executar sem tantos problemas.
+
+# Atuais interesses
+- Desenvolvimento de aplicações modulares e escaláveis;
+- Machine learning;
+- Criação de interfaces gráficas
 
 # Projetos de destaque
  - <strong> Biblioteca para Redes Neurais </strong>: https://github.com/thag0/Biblioteca-de-Redes-Neurais. Esse é um dos meus projetos favoritos, tenho bastante interesse na área de machine learning e busquei estudar muitas coisas sobre como funciona, criei esse biblioteca com objetivo de conseguir usar futuramente (não só por mim), aprender sobre a área programando seu funcionamento e também porque me divirto vendo meus modelos funcionando e aprendendo por algo que eu construí.
