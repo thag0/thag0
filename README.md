@@ -5,6 +5,7 @@ Sou um grande interessado na área de programação e desenvolvimento, atualment
 Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens que aprendi dentro da universidade e que tenho mais familiaridade e consigo desenvolver com mais velocidade e consistência. Atualmente trabalho nos meus projetos mais usando java pelo ambiente mais simples que me proporciona de apenas criar, compilar e executar sem tantos problemas.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thag0)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thag0&theme=tokyonight)
 
 # Atuais interesses
 - Desenvolvimento de aplicações modulares e escaláveis;
