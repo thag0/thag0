@@ -6,8 +6,8 @@ Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens
 
 <div>
  <a href="https://github.com/thag0">
+  <img src="https://github-readme-stats.vercel.app/api?username=thag0)](https://github.com/anuraghazra/github-readme-stats">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thag0)](https://github.com/anuraghazra/github-readme-stats)
- </a>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thag0&theme=tokyonight)
