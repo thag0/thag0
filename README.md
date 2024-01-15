@@ -7,6 +7,7 @@ Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens
 Estatísticas do perfil
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thag0)](https://github.com/anuraghazra/github-readme-stats)
 
+
 Linguaguens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thag0&theme=tokyonight)
 
