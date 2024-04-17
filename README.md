@@ -22,5 +22,5 @@ Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens
 
 
 # Contatos:
-- linkedin: https://www.linkedin.com/in/thiago-barroso-3523bb28b/;
+- ![linkedin-logo](https://github.com/thag0/thag0/assets/91092364/c8a02c71-fc4f-49c1-a6c5-cbfc54c9f715): https://www.linkedin.com/in/thiago-barroso-3523bb28b/;
 - email: thiagobarroso11@hotmail.com.
