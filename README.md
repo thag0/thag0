@@ -22,7 +22,7 @@ Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens
 
 
 <div>
- <a href="www.linkedin.com/in/thiago-barroso-3524bb28b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/thiago-barroso-3523bb28b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div style="display: inline_block"><br>
