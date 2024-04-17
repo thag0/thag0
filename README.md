@@ -21,6 +21,11 @@ Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens
  - <strong> Sistema de Estoque </strong> (https://github.com/thag0/Sistema-de-estoque-de-produtos): Esse projeto desenvolvi mais com interesse na área de interfaces gráficas e mais para manipulção de dados externos dentro do programa, quis criar uma interface amigável e tentei fazer o programa ser o mais dinâmico possível;
 
 
-# Contatos:
-- ![linkedin-logo](https://github.com/thag0/thag0/assets/91092364/c8a02c71-fc4f-49c1-a6c5-cbfc54c9f715): https://www.linkedin.com/in/thiago-barroso-3523bb28b/;
-- email: thiagobarroso11@hotmail.com.
+<div>
+ <a href="www.linkedin.com/in/thiago-barroso-3524bb28b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
