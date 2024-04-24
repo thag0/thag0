@@ -1,14 +1,23 @@
-opa
+Opa
 
 Sou um grande interessado na área de programação e desenvolvimento, atualmente mexo com meus próprios projetos que tenho em mente e tento desenvolver programas que sejam fáceis de ler e escalar.
 
 Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens que aprendi dentro da universidade e que tenho mais familiaridade e consigo desenvolver com mais velocidade e consistência. Atualmente trabalho nos meus projetos mais usando java pelo ambiente mais simples que me proporciona de apenas criar, compilar e executar sem tantos problemas.
 
-# Estatísticas do perfil
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thag0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-# Linguagens 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thag0&theme=tokyonight)
+# Estatísticas do perfil
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=thag0&title_color=36f7f4&text_color=36f7f4&bg_color=101010" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thag0&title_color=36f7f4&text_color=36f7f4&bg_color=101010" />
+    </a>
+</div>
 
 # Atuais interesses
 - Desenvolvimento de aplicações modulares e escaláveis;
@@ -20,12 +29,6 @@ Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens
  - <strong> Jogo da Cobrinha </strong> (https://github.com/thag0/Jogo-da-Cobrinha): Criei essa minha versão do jogo quando estava me interessando na área de jogos e um pouquinho de design, claro que o jogo foi criado com base nas minhas regras, mas se assemelha bastante ao original, fiz para melhorar mais meus conhecimento em lógica, criação de interfaces gráficas, uso de efeitos sonoros, criação de sprites simples e também foi onde comecei a criar a boa prática de documentar bastante meu próprio código;
  - <strong> Sistema de Estoque </strong> (https://github.com/thag0/Sistema-de-estoque-de-produtos): Esse projeto desenvolvi mais com interesse na área de interfaces gráficas e mais para manipulção de dados externos dentro do programa, quis criar uma interface amigável e tentei fazer o programa ser o mais dinâmico possível;
 
-
 <div>
  <a href="https://www.linkedin.com/in/thiago-barroso-3523bb28b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
