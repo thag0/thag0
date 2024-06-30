@@ -1,8 +1,8 @@
 Opa
 
-Sou um grande interessado na área de programação e desenvolvimento, atualmente mexo com meus próprios projetos que tenho em mente e tento desenvolver programas que sejam fáceis de ler e escalar.
+Sou um grande interessado na área de programação e desenvolvimento de bibliotecas e sistemas, atualmente mexo com meus próprios projetos que tenho em mente e tento desenvolver programas que sejam fáceis de ler e escalar, tentando me desafiar a aprender tecnologias novas.
 
-Minhas linguagens mais usadas são Java, Python e um pouco de C. São linguagens que aprendi dentro da universidade e que tenho mais familiaridade e consigo desenvolver com mais velocidade e consistência. Atualmente trabalho nos meus projetos mais usando java pelo ambiente mais simples que me proporciona de apenas criar, compilar e executar sem tantos problemas.
+Minhas linguagens mais usadas são Java, Python e um pouco de C. Linguagens as quais aprendi dentro da universidade, onde tenho mais familiaridade e consigo desenvolver com mais velocidade e consistência. Atualmente apenas trabalho desenvolvendo pequenos projetos de meu interesse por questões de estudo e curiosidade.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
