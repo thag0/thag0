@@ -1,8 +1,10 @@
-Opa
+Bem vindo,
 
-Sou um grande interessado na área de programação e desenvolvimento de bibliotecas e sistemas, atualmente mexo com meus próprios projetos que tenho em mente e tento desenvolver programas que sejam fáceis de ler e escalar, tentando me desafiar a aprender tecnologias novas.
+Sou um grande interessado na área de programação e desenvolvimento de bibliotecas e sistemas.
 
-Minhas linguagens mais usadas são Java, Python e um pouco de C. Linguagens as quais aprendi dentro da universidade, onde tenho mais familiaridade e consigo desenvolver com mais velocidade e consistência. Atualmente apenas trabalho desenvolvendo pequenos projetos de meu interesse por questões de estudo e curiosidade.
+Me dedico a àrea fazendo atualmente pequenas aplicação de uso pessoal a partir de ideias que vêem a mente.
+
+Sou formado em Engenharia de Computação desde 2025 pela Universidade Federal do Pará (UFPA), onde surgiu meu interesse em como funciona o mundo da programação e como posso fazer disso por enquanto um hobby.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -18,11 +20,6 @@ Minhas linguagens mais usadas são Java, Python e um pouco de C. Linguagens as q
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thag0&title_color=36f7f4&text_color=36f7f4&bg_color=101010" />
     </a>
 </div>
-
-# Atuais interesses
-- Desenvolvimento de aplicações modulares e escaláveis;
-- Machine learning;
-- Criação de interfaces gráficas.
 
 # Projetos de destaque
  - <strong> JNN </strong> (https://github.com/thag0/JNN): Esse é um dos meus projetos favoritos, tenho bastante interesse na área de machine learning e busquei estudar muitas coisas sobre como funciona, criei esse biblioteca com objetivo de conseguir usar futuramente (não só por mim), aprender sobre a área programando seu funcionamento e também porque me divirto vendo meus modelos funcionando e aprendendo por algo que eu construí;
